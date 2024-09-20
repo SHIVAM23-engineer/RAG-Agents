@@ -1,5 +1,5 @@
 
-## README: RAG-Based Agent for Document Retrieval and Question Answering
+## RAG-Based Agent for Document Retrieval and Question Answering
 
 
 Overview
